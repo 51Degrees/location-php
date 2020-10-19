@@ -46,7 +46,7 @@ Examples can be found in the `fiftyone.pipeline.geolocation/` folder. See below 
 
 To run the examples, go to the `fiftyone.pipeline.geolocation/examples` directory and run:
 
-`php -S locahost:8080`
+`php -S localhost:8080`
 
 The examples will now be available to view in a browser. For example, the cloud getting started example will be available
 by browsing to `localhost:8080/cloud/gettingstarted.php`.
